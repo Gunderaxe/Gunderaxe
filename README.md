@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Danial @Gunderaxe
+- 👀 I’m interested in improving efficiencies, user friendliness, and automation.
+- 🌱 I’m currently learning the skills for data analyst and data engineering.
